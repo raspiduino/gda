@@ -11,11 +11,11 @@ This work the same as <a href="https://gist.github.com/iamtekeste/3cdfd0366ebfd2
 ```gda.py fileid```
 <br>fileid: Insert your fileid
 <br>For example: if your link is https://drive.google.com/file/d/1nVOL_4NMw8hfszfYYo2bwUSgFtQtulAT/view
-```gda.py 1nVOL_4NMw8hfszfYYo2bwUSgFtQtulAT```
+<br>```gda.py 1nVOL_4NMw8hfszfYYo2bwUSgFtQtulAT```
 
 ## Requirement
 - Python3
-- <i>requests</i> library
+- <i>requests</i> library: ```pip/pip3 install requests``` 
 
 ## Todo
 - Add folder download support
