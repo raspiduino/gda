@@ -16,6 +16,10 @@ This work the same as <a href="https://gist.github.com/iamtekeste/3cdfd0366ebfd2
 ## Requirement
 - Python3
 - <i>requests</i> library: ```pip/pip3 install requests``` 
+- <a href="https://github.com/aria2/aria2">aria2</a>
 
 ## Todo
 - Add folder download support
+
+## Credits
+Special thanks to aria2, requests and other libs.
